@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Autosave" url="https://googledrive.com/host/0Bw1KseIE5s6cVF9RNklkS3BXNDQ/">
+   <description name="Autosave" url="https://raw.github.com/mystilleef/eclipse4-autosave-updatesite/master/com.laboki.eclipse.e4.autosave">
       Save files automatically for Eclipse 4.
    </description>
-   <feature url="features/com.laboki.eclipse.e4.feature.autosave_201302227.6.0.jar" id="com.laboki.eclipse.e4.feature.autosave" version="201302227.6"/>
+   <feature url="features/com.laboki.eclipse.e4.feature.autosave_201302227.8.0.jar" id="com.laboki.eclipse.e4.feature.autosave" version="201302227.8"/>
 </site>
