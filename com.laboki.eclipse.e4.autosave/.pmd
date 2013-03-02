@@ -821,7 +821,7 @@
         </rule>
         <rule>
             <name>UnnecessaryParentheses</name>
-            <ruleset>Unnecessary</ruleset>
+            <ruleset>Controversial</ruleset>
         </rule>
         <rule>
             <name>UnnecessaryBlock</name>
@@ -901,7 +901,7 @@
         </rule>
         <rule>
             <name>AssignmentInOperand</name>
-            <ruleset>Basic Ecmascript</ruleset>
+            <ruleset>Controversial</ruleset>
         </rule>
         <rule>
             <name>UnreachableCode</name>
