@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <description name="Autosave" url="https://raw.github.com/mystilleef/eclipse4-autosave-updatesite/master/com.laboki.eclipse.e4.autosave">
-      Autosave update site for Eclipse 4. Autosave automatically saves files in Eclipse 4.
+   <description name="Smartsave" url="https://raw.github.com/mystilleef/eclipse4-smartsave-updatesite/master/com.laboki.eclipse.updatesite.smartsave">
+      Smartsave intelligently saves your files after you stop editing in Eclipse4.
    </description>
-   <feature url="features/com.laboki.eclipse.e4.feature.autosave_20130302.1.0.jar" id="com.laboki.eclipse.e4.feature.autosave" version="20130302.1"/>
+   <feature url="features/com.laboki.eclipse.feature.smartsave_20130302.1.0.jar" id="com.laboki.eclipse.feature.smartsave" version="20130302.1"/>
 </site>
