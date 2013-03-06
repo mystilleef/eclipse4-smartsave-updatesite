@@ -3,5 +3,5 @@
    <description name="Smartsave" url="https://raw.github.com/mystilleef/eclipse4-smartsave-updatesite/master/com.laboki.eclipse.updatesite.smartsave">
       Smartsave intelligently saves your files after you stop editing in Eclipse4.
    </description>
-   <feature url="features/com.laboki.eclipse.feature.smartsave_20130302.2.0.jar" id="com.laboki.eclipse.feature.smartsave" version="20130302.2"/>
+   <feature url="features/com.laboki.eclipse.feature.smartsave_20130306.0.0.jar" id="com.laboki.eclipse.feature.smartsave" version="20130306"/>
 </site>
